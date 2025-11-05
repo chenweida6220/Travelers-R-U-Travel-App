@@ -46,8 +46,8 @@ The primary persona, Kevin Chen, is a 28-year-old professional living in Brookly
 </div> -->
 
 <div align="center">
-<img src="/Deliverables/travelers-r-u_draft.png" alt="Draft Wireframe" width="600"/>
-<img src="/Deliverables/travelers-r-u_wireframe.png" alt="Demo Wireframe" width="600"/>
+<img src="/Deliverables/travelers-r-u_draft.png" alt="Draft Wireframe" width="300"/>
+<img src="/Deliverables/travelers-r-u_wireframe.png" alt="Demo Wireframe" width="300"/>
 <!-- GitHub's Markdown renderer does not support inline video playback -->
 <!-- <video src="/Deliverables/travelers-r-u_walkthrough.mp4" width="600" controls></video> -->
 <img src="/Deliverables/travelers-r-u_walkthrough.gif" alt="Demo Wireframe" width="600"/>
